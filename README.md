@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/senabibi/Snake_Game">
+  <a href="https://github.com/senabibi/Pong_Game">
     <img src="images/logo.png" alt="Logo" width="1000" height="800">
   </a>
 
